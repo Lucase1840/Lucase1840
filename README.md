@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there! I’m Lucas Espina</h1>
 <h3 align="center">Resilient and self sufficient Full-Stack developer from Buenos Aires, Argentina</h3>
 
-- ✨ I graduated from the bootcamp SoyHenry. I'm a resilient, passionate and self-sufficient person who can build real life applications using technologies such as JavaScript, React, Redux, Express, SQL, and give them a unique style thanks to my knowledge in audiovisual arts.
+- ✨ I graduated from the bootcamp SoyHenry. I'm a resilient, passionate and self-sufficient person who can build real life applications using technologies such as JavaScript, React, Redux, Express, SQL, PostgreSQL, Tailwind, and give them a unique style thanks to my knowledge in audiovisual arts.
 
 - 🔭 I’m currently working on makin responsive the **e-commerce I've just finished with my team**
 
