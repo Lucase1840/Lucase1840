@@ -3,9 +3,9 @@
 
 - ✨ I graduated from the bootcamp SoyHenry. I'm a resilient, passionate and self-sufficient person who can build real life applications using technologies such as JavaScript, React, Redux, Express, SQL, and give them a unique style thanks to my knowledge in audiovisual arts.
 
-- 🔭 I’m currently working on an **e-commerce with my team**
+- 🔭 I’m currently working on makin responsive the **e-commerce I've just finished with my team**
 
-- 🌱 Looking forward to learn **Java & Phyton**
+- 🌱 I'm starting to learn **Java & Phyton**
 
 - 📫 How to reach me **espinalucas518@gmail.com**
 
